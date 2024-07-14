@@ -6,7 +6,7 @@ The Portfolio Optimization App is a robust financial tool designed to help inves
 ## Features:
 * Interactive Streamlist User Interface
 * Automated data fetching from Yahoo Finance API
-* Risk-free rate retrieval from FRED API
+* Risk-free rate retrieval from Frederal Reserves API
 * Customizable stock ticker and start dates
 * Adjustable slider for max weight constraint
 * Expected annual return, volatility, and Sharpe Ratio metrics
