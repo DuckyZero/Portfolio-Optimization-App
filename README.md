@@ -13,7 +13,7 @@ The Portfolio Optimization App is a robust financial tool designed to help inves
 * Visualization of optimial portfolio weights
 * Historial stock performance plotting
 
-## Toosls:
+## Tools:
 
 * Streamlit
 * yfinance
